@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayabusa1601)](https://github.com/Hayabusa1601/github-readme-stats)
+
 
 <!--
 **Hayabusa1601/Hayabusa1601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
