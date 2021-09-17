@@ -7,7 +7,7 @@
 - I'm interested in Programming.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hayabusa1601&count_private=true&show_icons=true&theme=dracula" alt="Hayabusa1601" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hayabusa1601&count_private=true&show_icons=true&theme=chartreuse-dark" alt="Hayabusa1601" />
 </div>
 
 
