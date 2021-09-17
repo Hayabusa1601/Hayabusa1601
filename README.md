@@ -10,7 +10,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Hayabusa1601&count_private=true&show_icons=true&theme=chartreuse-dark" alt="Hayabusa1601" />
 </div>
 
-
+###Links
+- Aboutme: https://hayabusa1601.com
+- Blog: https://hayabusa1601.github.io
+- AtCoder: https://atcoder.jp/users/Hayabusa1601
 
 
 <!--
