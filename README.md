@@ -13,7 +13,6 @@
 ### Links
 - Aboutme: https://hayabusa1601.com
 - Blog: https://hayabusa1601.github.io
-- AtCoder: https://atcoder.jp/users/Hayabusa1601
 
 
 <!--
