@@ -12,7 +12,7 @@
 
 ### Links
 - Aboutme: https://hayabusa1601.net
-- Blog: https://hayablog.xyz
+- Blog: https://blog.hayabusa1601.net
 
 
 <!--
