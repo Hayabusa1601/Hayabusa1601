@@ -5,8 +5,6 @@
 
 - I'm a student at the National Insutitute of Technology Kumamoto College.
 - I'm interested in Programming.
-- 
-[![hayabusa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayabusa1601)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Links
 - Aboutme: https://hayabusa1601.net
