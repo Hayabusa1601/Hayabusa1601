@@ -8,8 +8,6 @@
 
 ### Links
 - Blog: https://hayabusa1601.github.io
-- note: https://note.com/hayabusa_1601
-
 <!--
 **Hayabusa1601/Hayabusa1601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
