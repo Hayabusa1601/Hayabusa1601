@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi there ✋
+    Hi there 🐮✋
     <img src="https://github.com/Hayabusa1601/Hayabusa1601/blob/main/hayabusa1601.png?raw=true" height="30px" alt="Hayabusa1601">
 </h1>
 
