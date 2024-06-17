@@ -6,7 +6,7 @@
 - I'm a student at the National Insutitute of Technology Kumamoto College.
 - I'm interested in Programming.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayabusa1601&count_private=true&show_icons=true&theme=dracula)
+
 
 ### Links
 - [Blog](https://hayabusa1601.github.io)
