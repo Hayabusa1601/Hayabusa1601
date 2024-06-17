@@ -8,6 +8,8 @@
 
 ![hayabusa1601's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayabusa1601&count_private=true&show_icons=false&theme=dracula&hide_rank=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Links
 - [Blog](https://hayabusa1601.github.io)
 <!--
