@@ -4,10 +4,8 @@
 </h1>
 
 - I'm a student at the National Insutitute of Technology Kumamoto College.
-- I'm interested in Programming.
+- I'm interested in Frontend Development and Machine Learning.
 
-### Links
-- [Blog](https://hayabusa1601.github.io)
 <!--
 **Hayabusa1601/Hayabusa1601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
