@@ -6,6 +6,9 @@
 - I'm a student at the National Insutitute of Technology Kumamoto College.
 - I'm interested in Frontend Development and Machine Learning.
 
+
+## Status
+![](https://raw.githubusercontent.com/Hayabusa1601/Hayabusa1601/main/profile-summary-card-output/default/0-profile-details.svg)
 <!--
 **Hayabusa1601/Hayabusa1601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
