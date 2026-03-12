@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Hayabusa1601/Hayabusa1601/main/profile-summary-card-output/date_night/4-productive-time.svg)
-```
-
-    
