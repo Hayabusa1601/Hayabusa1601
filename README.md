@@ -3,7 +3,7 @@
     <img src="https://github.com/Hayabusa1601/Hayabusa1601/blob/main/hayabusa1601.png?raw=true" height="30px" alt="Hayabusa1601">
 </h1>
 
-- I'm a student at the National Insutitute of Technology Kumamoto College.
+- I'm a student at the University of Tsukuba
 - I'm interested in Frontend Development and Machine Learning.
 
 
