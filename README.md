@@ -4,7 +4,7 @@
 </h1>
 
 - I'm a student at the University of Tsukuba
-- I'm interested in Frontend Development and Machine Learning.
+- I'm interested in Frontend Development, Backend Development and Machine Learning.
 
 
 ## Status
